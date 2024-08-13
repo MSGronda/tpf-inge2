@@ -1,18 +1,18 @@
-# TP Final - Ingenieria del Software 2
+# TP Final - Ingeniería del Software 2
 
 ## Autores:
-  - [Margenat, Matias](https://github.com/nicklnick)
+  - [Margenat, Matías](https://github.com/nicklnick)
   - [Paredes, Elian](https://github.com/elianparedes)
   - [Castañeda, Saul](https://github.com/saulex16)
   - [Burda, Juan](https://github.com/Juan-Burda)
   - [Gronda, Marcos](https://github.com/MSGronda) 
 
 ## Descripción:
-Diseñamos la arquitectura de un sistema similar a Github o Gitlab, el cual permite almacenar repositorios Git, SVN, Mercurial, Perforce, generar issues, wikis, etc. Para el diseño se relevaron multiples soluciones tecnicas, justificando en el caso que se haya usado uno. También se especificaron los atributos de diseño a priorizar para dicho sistema.
+Diseñamos la arquitectura de un sistema similar a Github o Gitlab, el cual permite almacenar repositorios Git, SVN, Mercurial, Perforce, generar issues, wikis, etc. Para el diseño se relevaron múltiples soluciones técnicas, justificando en el caso que se haya usado uno. También se especificaron los atributos de diseño a priorizar para dicho sistema.
 
 ## Arquitectura:
 
-<img src="images/architecture.jpg" alt="Arquitectura" width="600"/>
+<img src="images/architecture.jpg" alt="Arquitectura" width="825"/>
 
 ## Correcciones:
 - El diagrama es poco claro, incluyendo líneas de diversos colores sin una leyenda que permita su interpretación.
